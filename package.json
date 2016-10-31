@@ -1,0 +1,43 @@
+{
+  "name": "bloggify-logos",
+  "version": "1.0.0",
+  "description": "Scripts to generate the Bloggify logos.",
+  "main": "build.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Bloggify/bloggify-logos.git"
+  },
+  "keywords": [
+    "bloggify",
+    "logos"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "SEE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Bloggify/bloggify-logos/issues"
+  },
+  "homepage": "https://github.com/Bloggify/bloggify-logos#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "build/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "cli.js",
+    "index.js"
+  ],
+  "blah": {
+    "generateLicense": false,
+    "show_installation": false,
+    "show_license": false,
+    "ex_img": "http://i.imgur.com/E0o52di.png",
+    "ex_url": "https://bloggify.org/logos"
+  }
+}
